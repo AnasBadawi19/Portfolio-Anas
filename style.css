@@ -1,0 +1,16 @@
+#body{
+    background-color:#5C0A0F;
+    color:black;
+    font-family:'Times New Roman', Times, serif;
+    font-weight:bold;
+}
+#socials{
+    display:flex;
+}
+#header{
+    text-align:center;
+}
+#img{
+    display:block;
+    margin: 0 auto;
+}
