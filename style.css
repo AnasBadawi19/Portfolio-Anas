@@ -53,6 +53,7 @@ margin-bottom:30px;
     margin-bottom:30px;
     margin-top:70px;
 }
+<<<<<<< HEAD
 #b a:hover, #q a:hover, #e a:hover, #resume a:hover, #back a:hover,#email a:hover {
     background-color: #B22234;
     transform: translateY(-3px);
@@ -96,3 +97,6 @@ cursor .4s step-end infinite alternate;
 .reveal:nth-child(3) { transition-delay: 0.1s; }
 .reveal:nth-child(4) { transition-delay: 0.2s; }
 .reveal:nth-child(5) { transition-delay: 0.3s; }
+=======
+
+>>>>>>> ff1c1115805cfbcf6f3bde32c1eb9bb720a9b605
